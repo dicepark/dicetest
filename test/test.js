@@ -1,1 +1,1 @@
-let test = '깃 테스트 중2'
+let test = '깃 테스트 중'
